@@ -225,16 +225,14 @@ Kibana visualizes log data stored in Elasticsearch.
 
 ---
 
-### Final Step: Documentation and Team Training
+=================
 
-1. **Document the Setup**:
-   - Installation and configuration steps for ELK Stack.
-   - Log sources and types (e.g., authentication, firewall, intrusion detection).
-   - Alerting rules and notification channels.
+1. **Create Setup Documentation**:
+   - Outline the procedures for installing and configuring the ELK Stack.
+   - Specify log sources and categories (e.g., authentication, firewall, intrusion detection).
+   - Define alerting rules and communication channels for notifications.
 
-2. **Train the Team**:
-   - Hands-on session to navigate the dashboard and interpret visualizations.
-   - Guide on updating Logstash configurations for new log sources.
-   - Overview of Kibana’s Alerting and Watcher for real-time monitoring.
-
-By following these steps, you’ll successfully build a secure logging and monitoring system that can detect and alert on security incidents, while providing an intuitive interface for ongoing security posture monitoring.
+2. **Conduct Team Training**:
+   - Provide a practical session on using the dashboard and understanding visual data.
+   - Offer guidance on modifying Logstash configurations to accommodate new log sources.
+   - Provide an overview of Kibana’s Alerting and Watcher features for real-time monitoring.
